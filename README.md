@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### welcome :smile:
+### Hi there 👋, welcome :smile:
 
 <p align="left">
 <a href="https://github.com/samoyedsun">
